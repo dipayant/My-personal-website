@@ -1,0 +1,64 @@
+body{
+    margin:0%;
+    font-family: 'Poppins', sans-serif;
+}
+.name-color{
+    color: rgba(255, 0, 85, 0.664);
+}
+h2{
+    font-weight: 500;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.intro{
+    width: 30%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 8%;
+    margin-bottom: 10%;
+}
+.intro img{
+    width: 100%;
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,mediumvioletred,orchid,mediumvioletred);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.intro-head{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1950px;
+}
+.biography img{
+    width: 100%;
+}
+section{
+    height: 1000px;
+    padding-bottom: 10px;
+}
+.biography{
+    width: 30%;    
+    float: left;
+    margin-left: 13%;
+}
+.bio{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,mediumvioletred,orchid,mediumvioletred);
+    padding: 15px 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+.bio-middle{
+    background-image: url("personal-website/biography-bg.png");
+    background-size: 1800px;
+
+}
